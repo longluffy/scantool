@@ -1,0 +1,5 @@
+bin/
+lib/
+bin/numpy-config
+bin/*
+venv/
